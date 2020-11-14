@@ -11,6 +11,7 @@ h1 {
 .buffer {
 	height: 8rem;
 }
+
 .btn {
 	font-weight: 700;
 	border-radius: 300px;
@@ -20,9 +21,9 @@ h1 {
 	background-color: #f9bc60;
 	border-color: #f9bc60;
 }
-.btn-primary:hover {
-	background-color: #abd1c6;
-	border-color: #abd1c6;
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+	background-color: #abd1c6 !important;
+	border-color: #abd1c6 !important;
 }
 .btn-xl {
 	padding: 1rem 2rem;
