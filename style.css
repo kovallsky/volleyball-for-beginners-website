@@ -1,0 +1,30 @@
+body, html {
+	width: 100%;
+	height: 100%;
+	background-color: #004643;
+
+}
+h1 {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: #fffffe;
+}
+.buffer {
+	height: 8rem;
+}
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+.btn-primary {
+	background-color: #f9bc60;
+	outline-color: #f9bc60;
+	border: 1px solid #f9bc60;
+}
+.btn-primary:hover {
+	background-color: #abd1c6;
+	border-color: #abd1c6;
+}
+.btn-xl {
+	padding: 1rem 2rem;
+}
