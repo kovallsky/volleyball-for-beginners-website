@@ -18,8 +18,7 @@ h1 {
 }
 .btn-primary {
 	background-color: #f9bc60;
-	outline-color: #f9bc60;
-	border: 1px solid #f9bc60;
+	border-color: #f9bc60;
 }
 .btn-primary:hover {
 	background-color: #abd1c6;
